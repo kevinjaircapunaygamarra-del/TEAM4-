@@ -34,13 +34,13 @@ cd task-manager
 
 2. Configurar entorno virtual
 
-# Crear entorno virtual
+ Crear entorno virtual
 python -m venv venv
 
-# Activar entorno (Windows)
+ Activar entorno (Windows)
 venv\Scripts\activate
 
-# Activar entorno (Mac/Linux)
+ Activar entorno (Mac/Linux)
 source venv/bin/activate
 
 3. Instalar dependencias
